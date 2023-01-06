@@ -1,0 +1,104 @@
+body {
+    background-color: #fff;
+    ;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.left-div {
+    float: left;
+    padding-left: 4%;
+    padding-top: 98px;
+}
+
+.right-div {
+    float: right;
+  
+    padding-top: 95px;
+    padding-right: 23%;
+}
+
+.blue {
+    color: #008AD8;
+    font-size: 45px;
+}
+
+.black {
+    font-size: 18px;
+}
+
+.button:hover {
+    background-color: #096aa3;
+    cursor: pointer;
+}
+
+.button {
+    color: white;
+    border-radius: 5px;
+    border: none;
+    width: 237px;
+    height: 35px;
+    background-color: #008AD8;
+}
+
+.button1:hover {
+    cursor: pointer;
+    background-color: #07c607;
+
+}
+
+.button1 {
+    
+    color: white;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    width: 160px;
+    height: 29px;
+    background-color: #00FF00;
+}
+
+.forget:hover {
+    text-decoration: underline;
+}
+
+.forget {
+    font-size: 10px;
+    padding-left: 62px;
+    color: #008AD8;
+    align-items: center;
+}
+
+.forget:hover {
+    cursor: pointer;
+
+}
+
+.last-words {
+    font-size: 9px;
+    color: rgb(141, 168, 168);
+    padding-left: 23%;
+    text-align: left;
+    padding-top: 500px;
+
+}
+.creatpage:hover{
+    text-decoration: underline;
+}
+.lastpart{
+    font-size: 10px;
+}
+.box{
+    border: 1px rgb(179, 175, 175) solid;
+    padding: 23px;
+    box-shadow:0.6px 0.3px 0.2px rgb(110, 108, 108);
+   
+}
+.hr{
+   
+    color: rgb(99, 98, 97);
+}
+input{
+    box-sizing: border-box;
+    width: 100x;
+    height: 35px;
+}
